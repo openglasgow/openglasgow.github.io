@@ -5,7 +5,7 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               OpenGlasgow
+title:               OPEN Glasgow
 tagline:             Developer Blog
 url:                 https://data.glasgow.gov.uk
 paginate:            1
@@ -20,7 +20,7 @@ sass:
 
 # About/contact
 author:
-  name:              Open Glasgow Team
+  name:              OPEN Glasgow Team
   url:               https://twitter.com/openglasgow
   email:             open@glasgow.gov.uk
 
