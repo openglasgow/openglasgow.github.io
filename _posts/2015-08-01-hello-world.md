@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello Glasgow
+title: Hello, Glasgow
 ---
 
 Welcome to the [OPEN Glasgow](http://open.glasgow.gov.uk) developer blog.
