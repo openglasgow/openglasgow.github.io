@@ -1,3 +1,25 @@
+@font-face {
+  font-family: 'FutureCity';
+  src: url("FutureCity-Bold.eot");
+  src: url("FutureCity-Bold.eot?#iefix") format("embedded-opentype"), url("FutureCity-Bold.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'FutureCity';
+  src: url("FutureCity-SemiBold.eot");
+  src: url("FutureCity-SemiBold.eot?#iefix") format("embedded-opentype"), url("FutureCity-SemiBold.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'FutureCity';
+  src: url("FutureCity-Regular.eot");
+  src: url("FutureCity-Regular.eot?#iefix") format("embedded-opentype"), url("FutureCity-Regular.woff") format("woff");
+  font-weight: 100;
+  font-style: normal;
+}
+
 html {
   background: #16C7B7 url(bg-map.jpg) no-repeat;
   background-size: cover;
@@ -8,6 +30,10 @@ body {
   line-height: 1.4;
   color: #333;
   min-width: 960px;
+}
+
+h1, h2 {
+  font-family: FutureCity, Helvetica, Arial, sans-serif;
 }
 
 h1 {
