@@ -1,5 +1,6 @@
 html {
-  background: #16C7B7 url(http://open.glasgow.gov.uk/content/themes/futurecities/images/bg-map.jpg) repeat;
+  background: #16C7B7 url(http://open.glasgow.gov.uk/content/themes/futurecities/images/bg-map.jpg) no-repeat;
+  background-size: cover;
 }
 
 body {
