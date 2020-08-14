@@ -8,7 +8,7 @@ Here you will find technical information and documentation about Data, APIs and 
 
 You can also visit our interactive API's on our [developer site](https://gcc.developer.azure-api.net/) and view documentation [here](./api).
 
-# Open Glasgow Blog
+### Open Glasgow Blog
 <ul>
   {% for post in site.posts %}
     <li>
@@ -17,7 +17,7 @@ You can also visit our interactive API's on our [developer site](https://gcc.dev
   {% endfor %}
 </ul>
 
-# How to find us
+##### How to find us
 * [Twitter](https://twitter.com/openglasgow)
 * [Facebook](https://facebook.com/openglasgow)
 * [About Open Glasgow](./about.md)
