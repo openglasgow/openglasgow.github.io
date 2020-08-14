@@ -18,6 +18,6 @@ You can also visit our interactive API's on our [developer site](https://gcc.dev
   {% endfor %}
 </ul>
 
-<hr />
+# More on Open Glasgow
 * [About Open Glasgow](./about.md).
 * [Contact Open Glasgow](./contact.md).
