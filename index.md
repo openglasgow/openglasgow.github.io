@@ -2,7 +2,6 @@
 layout: default
 ---
 
-# Open Glasgow
 Welcome to the Open Glasgow Developer site.
 
 Here you will find technical information and documentation about Data, APIs and more.
@@ -18,6 +17,8 @@ You can also visit our interactive API's on our [developer site](https://gcc.dev
   {% endfor %}
 </ul>
 
-# More on Open Glasgow
-* [About Open Glasgow](./about.md).
-* [Contact Open Glasgow](./contact.md).
+# How to find us
+* [Twitter](https://twitter.com/openglasgow)
+* [Facebook](https://facebook.com/openglasgow)
+* [About Open Glasgow](./about.md)
+* [Contact Open Glasgow](./contact.md)
