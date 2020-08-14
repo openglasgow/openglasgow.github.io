@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Welcome to another page
+## About Open Glasgow
 
-_yay_
+_to be done_
 
 [back](./)
