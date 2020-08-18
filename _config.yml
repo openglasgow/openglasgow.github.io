@@ -3,4 +3,4 @@ logo: /assets/img/og.png
 description: Blog and API Documentation
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
